@@ -24,7 +24,7 @@ The bootcamp covered a range of technologies and tools, including:
 To get started with the projects:
 1. Clone the repository:
     ```bash
-    git clone [https://github.com/your-username/test-automation-bootcamp.git](https://github.com/mtaksel/JavaSeleniumTestAutomationBootcampVirgosol.git)
+    git clone https://github.com/mtaksel/JavaSeleniumTestAutomationBootcampVirgosol.git
     ```
 2. Navigate to the project directory:
     ```bash
