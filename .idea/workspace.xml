@@ -5,18 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a1164c7-196f-4226-8a32-de7dc6dc352d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/excDay1/D1_driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/excDay1/D1_getTitle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/excDay1/D1_navigate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/excDay1/IntroLocator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/excDay1/TestngIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/excDay2/ActionsClass09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/excDay2/AssertionClassTestNG01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/excDay2/Checkbox04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/excDay2/ClickAndSendKeys02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/excDay2/DropdownMenu07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/excDay2/FindElements06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/excDay2/GetText01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/excDay2/RadioButton05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/excDay2/SelectDropDown08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,9 +32,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2iraYoldunP6aXkBjLuMtbLmAMB" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -44,34 +43,73 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.D1_driver.executor": "Run",
     "Application.D1_getTitle.executor": "Run",
     "Application.D1_navigate.executor": "Run",
     "Application.Day1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.ActionsClass09.test2.executor": "Run",
+    "TestNG.AssertionClassTestNG01.executor": "Run",
+    "TestNG.AssertionClassTestNG01.test1.executor": "Run",
+    "TestNG.AssertionClassTestNG01.test2.executor": "Run",
+    "TestNG.AssertionClassTestNG01.test3.executor": "Run",
+    "TestNG.AssertionClassTestNG01.test5.executor": "Run",
+    "TestNG.Checkbox04.executor": "Run",
+    "TestNG.Checkbox04.testIsDisplayed.executor": "Run",
+    "TestNG.Checkbox04.testIsSelected.executor": "Run",
+    "TestNG.ClickAndSendKeys02.executor": "Run",
+    "TestNG.ClickAndSendKeys02.test.executor": "Run",
+    "TestNG.DropdownMenu07.test1.executor": "Run",
+    "TestNG.FindElements06.testList2.executor": "Run",
+    "TestNG.GetText01.executor": "Run",
+    "TestNG.GetText01.test.executor": "Run",
     "TestNG.IntroLocator.testLink.executor": "Run",
     "TestNG.IntroLocator.testName.executor": "Run",
     "TestNG.IntroLocator.testTask.executor": "Run",
+    "TestNG.SelectDropDown08.test1.executor": "Run",
     "TestNG.TestngIntro.currentULR.executor": "Run",
     "TestNG.TestngIntro.test1.executor": "Run",
     "TestNG.TestngIntro.test2.executor": "Run",
     "TestNG.TestngIntro.titlt.executor": "Run",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.IntroLocator.testLink">
-    <configuration name="IntroLocator.testLink" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumTestAutomationBootcampVirgosol" />
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="excDay2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.ClickAndSendKeys02.test">
+    <configuration name="AssertionClassTestNG01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaSeleniumTestAutomationBootcampVirgosol" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="excDay1.*" />
+          <option name="PATTERN" value="excDay2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="excDay1" />
-      <option name="MAIN_CLASS_NAME" value="excDay1.IntroLocator" />
-      <option name="METHOD_NAME" value="testLink" />
+      <option name="PACKAGE_NAME" value="excDay2" />
+      <option name="MAIN_CLASS_NAME" value="excDay2.AssertionClassTestNG01" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AssertionClassTestNG01.test2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaSeleniumTestAutomationBootcampVirgosol" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="excDay2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="excDay2" />
+      <option name="MAIN_CLASS_NAME" value="excDay2.AssertionClassTestNG01" />
+      <option name="METHOD_NAME" value="test2" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -79,17 +117,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntroLocator.testName" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumTestAutomationBootcampVirgosol" />
+    <configuration name="AssertionClassTestNG01.test5" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaSeleniumTestAutomationBootcampVirgosol" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="excDay1.*" />
+          <option name="PATTERN" value="excDay2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="excDay1" />
-      <option name="MAIN_CLASS_NAME" value="excDay1.IntroLocator" />
-      <option name="METHOD_NAME" value="testName" />
+      <option name="PACKAGE_NAME" value="excDay2" />
+      <option name="MAIN_CLASS_NAME" value="excDay2.AssertionClassTestNG01" />
+      <option name="METHOD_NAME" value="test5" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -97,53 +135,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntroLocator.testTask" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumTestAutomationBootcampVirgosol" />
+    <configuration name="ClickAndSendKeys02" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaSeleniumTestAutomationBootcampVirgosol" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="excDay1.*" />
+          <option name="PATTERN" value="excDay2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="excDay1" />
-      <option name="MAIN_CLASS_NAME" value="excDay1.IntroLocator" />
-      <option name="METHOD_NAME" value="testTask" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PACKAGE_NAME" value="excDay2" />
+      <option name="MAIN_CLASS_NAME" value="excDay2.ClickAndSendKeys02" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestngIntro.currentULR" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumTestAutomationBootcampVirgosol" />
+    <configuration name="ClickAndSendKeys02.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaSeleniumTestAutomationBootcampVirgosol" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="excDay1.*" />
+          <option name="PATTERN" value="excDay2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="excDay1" />
-      <option name="MAIN_CLASS_NAME" value="excDay1.TestngIntro" />
-      <option name="METHOD_NAME" value="currentULR" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestngIntro.titlt" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumTestAutomationBootcampVirgosol" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="excDay1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="excDay1" />
-      <option name="MAIN_CLASS_NAME" value="excDay1.TestngIntro" />
-      <option name="METHOD_NAME" value="titlt" />
+      <option name="PACKAGE_NAME" value="excDay2" />
+      <option name="MAIN_CLASS_NAME" value="excDay2.ClickAndSendKeys02" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -153,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.IntroLocator.testLink" />
-        <item itemvalue="TestNG.IntroLocator.testName" />
-        <item itemvalue="TestNG.IntroLocator.testTask" />
-        <item itemvalue="TestNG.TestngIntro.currentULR" />
-        <item itemvalue="TestNG.TestngIntro.titlt" />
+        <item itemvalue="TestNG.ClickAndSendKeys02.test" />
+        <item itemvalue="TestNG.ClickAndSendKeys02" />
+        <item itemvalue="TestNG.AssertionClassTestNG01" />
+        <item itemvalue="TestNG.AssertionClassTestNG01.test5" />
+        <item itemvalue="TestNG.AssertionClassTestNG01.test2" />
       </list>
     </recent_temporary>
   </component>
@@ -171,5 +190,16 @@
       <updated>1720251204034</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
