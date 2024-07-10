@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a1164c7-196f-4226-8a32-de7dc6dc352d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/excDay2/ActionsClass09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/excDay2/AssertionClassTestNG01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/excDay2/Checkbox04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/excDay2/ClickAndSendKeys02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/excDay2/DropdownMenu07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/excDay2/FindElements06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/excDay2/GetText01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/excDay2/RadioButton05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/excDay2/SelectDropDown08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tasks/task1/task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tasks/task1/task1.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,6 +23,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -72,8 +65,18 @@
     "TestNG.TestngIntro.test1.executor": "Run",
     "TestNG.TestngIntro.test2.executor": "Run",
     "TestNG.TestngIntro.titlt.executor": "Run",
+    "TestNG.task1.executor": "Run",
+    "TestNG.task1.h4.executor": "Run",
+    "TestNG.task1.hw1.executor": "Run",
+    "TestNG.task1.hw2.executor": "Run",
+    "TestNG.task1.hw3.executor": "Run",
+    "TestNG.task1.hw5.executor": "Run",
+    "TestNG.task1.hw6.executor": "Run",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -81,8 +84,8 @@
       <recent name="excDay2" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.ClickAndSendKeys02.test">
-    <configuration name="AssertionClassTestNG01" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.task1.hw6">
+    <configuration name="DropdownMenu07.test1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaSeleniumTestAutomationBootcampVirgosol" />
       <extension name="coverage">
         <pattern>
@@ -91,25 +94,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="excDay2" />
-      <option name="MAIN_CLASS_NAME" value="excDay2.AssertionClassTestNG01" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AssertionClassTestNG01.test2" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaSeleniumTestAutomationBootcampVirgosol" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="excDay2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="excDay2" />
-      <option name="MAIN_CLASS_NAME" value="excDay2.AssertionClassTestNG01" />
-      <option name="METHOD_NAME" value="test2" />
+      <option name="MAIN_CLASS_NAME" value="excDay2.DropdownMenu07" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -117,17 +103,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AssertionClassTestNG01.test5" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="task1.h4" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaSeleniumTestAutomationBootcampVirgosol" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="excDay2.*" />
+          <option name="PATTERN" value="tasks.task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="excDay2" />
-      <option name="MAIN_CLASS_NAME" value="excDay2.AssertionClassTestNG01" />
-      <option name="METHOD_NAME" value="test5" />
+      <option name="PACKAGE_NAME" value="tasks.task1" />
+      <option name="MAIN_CLASS_NAME" value="tasks.task1.task1" />
+      <option name="METHOD_NAME" value="h4" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -135,34 +121,53 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClickAndSendKeys02" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="task1.hw3" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaSeleniumTestAutomationBootcampVirgosol" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="excDay2.*" />
+          <option name="PATTERN" value="tasks.task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="excDay2" />
-      <option name="MAIN_CLASS_NAME" value="excDay2.ClickAndSendKeys02" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PACKAGE_NAME" value="tasks.task1" />
+      <option name="MAIN_CLASS_NAME" value="tasks.task1.task1" />
+      <option name="METHOD_NAME" value="hw3" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClickAndSendKeys02.test" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="task1.hw5" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaSeleniumTestAutomationBootcampVirgosol" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="excDay2.*" />
+          <option name="PATTERN" value="tasks.task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="excDay2" />
-      <option name="MAIN_CLASS_NAME" value="excDay2.ClickAndSendKeys02" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="PACKAGE_NAME" value="tasks.task1" />
+      <option name="MAIN_CLASS_NAME" value="tasks.task1.task1" />
+      <option name="METHOD_NAME" value="hw5" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task1.hw6" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaSeleniumTestAutomationBootcampVirgosol" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tasks.task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tasks.task1" />
+      <option name="MAIN_CLASS_NAME" value="tasks.task1.task1" />
+      <option name="METHOD_NAME" value="hw6" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -172,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.ClickAndSendKeys02.test" />
-        <item itemvalue="TestNG.ClickAndSendKeys02" />
-        <item itemvalue="TestNG.AssertionClassTestNG01" />
-        <item itemvalue="TestNG.AssertionClassTestNG01.test5" />
-        <item itemvalue="TestNG.AssertionClassTestNG01.test2" />
+        <item itemvalue="TestNG.task1.hw6" />
+        <item itemvalue="TestNG.task1.hw5" />
+        <item itemvalue="TestNG.DropdownMenu07.test1" />
+        <item itemvalue="TestNG.task1.h4" />
+        <item itemvalue="TestNG.task1.hw3" />
       </list>
     </recent_temporary>
   </component>
